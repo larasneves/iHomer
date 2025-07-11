@@ -10,13 +10,13 @@ Accepted at the *European Conference on Artificial Intelligence (ECAI 2025)*.
 ---
 
 ##  Repository Structure
-├── code/         # Core implementation of iHOMER (includes ODAC2, an adaptation of ODAC from River)
+├── code:          Core implementation of iHOMER (includes ODAC2, an adaptation of ODAC from River)
 
 
-├── figures/      # Visualizations, architecture, and critical difference diagrams
+├── figures:      Visualizations, architecture, and critical difference diagrams
 
 
-├── results/      # Evaluation metrics and experiment logs
+├── results:      Evaluation metrics and experiment logs
 
 ---
 
