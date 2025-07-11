@@ -4,7 +4,7 @@
 Accepted at the *European Conference on Artificial Intelligence (ECAI 2025)*.
 
 ---
-[main_22222.pdf](https://github.com/user-attachments/files/21191486/main_22222.pdf)
+<img width="738" height="536" alt="Screenshot 2025-07-12 at 00 51 31" src="https://github.com/user-attachments/assets/2573f8ac-81c3-44c9-84d1-b24d256257a7" />
 
 **iHOMER** (Incremental Hierarchy Of Multi-label ClassifiERs) is an online multi-label learning framework designed for streaming environments. It incrementally partitions the label space into disjoint, correlated clusters and dynamically adapts to concept drift, balancing scalability and predictive performance.
 
