@@ -47,8 +47,16 @@ If you use this work in your research, please cite:
 
 @misc{iHomerRepo,
   author       = {Lara Sá Neves},
+
+  
   title        = {iHOMER: Incremental Hierarchy Of Multi-label ClassifiERs},
+
+  
   year         = {2025},
+
+  
   howpublished = {\url{https://github.com/larasneves/iHomer}},
+
+  
   note         = {Accepted at ECAI 2025. Accessed: July 2025}
 }
