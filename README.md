@@ -2,7 +2,10 @@
 
 **"Online Hierarchical Partitioning of the Output Space in Extreme Multi-Label Data Streams"**  
 Accepted at the *European Conference on Artificial Intelligence (ECAI 2025)*.
+
+
 [Paper here](http://arxiv.org/abs/2507.20894)
+
 
 [Youtube video overview here](https://shorturl.at/IOHbW)
 
