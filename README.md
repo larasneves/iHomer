@@ -4,7 +4,7 @@
 Accepted at the *European Conference on Artificial Intelligence (ECAI 2025)*.
 
 
-[Paper here: arxiv.org/abs/2507.20894 ](http://arxiv.org/abs/2507.20894) 
+[Paper: arxiv.org/abs/2507.20894 ](http://arxiv.org/abs/2507.20894) 
 
 
 [Youtube video overview here](https://shorturl.at/IOHbW)
