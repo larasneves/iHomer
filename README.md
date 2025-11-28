@@ -51,18 +51,9 @@ All datasets are publicly available via the [Multi-Label Classification Dataset 
 If you use this work in your research, please cite:
 
 
-@misc{iHomerRepo,
-  author       = {Lara Sá Neves},
-
-  
-  title        = {iHOMER: Incremental Hierarchy Of Multi-label ClassifiERs},
-
-  
-  year         = {2025},
-
-  
-  howpublished = {\url{https://github.com/larasneves/iHomer}},
-
-  
-  note         = {Accepted at ECAI 2025. Accessed: July 2025}
+@article{neves2025online,
+  title={Online hierarchical partitioning of the output space in extreme multi-label data stream},
+  author={Neves, Lara and Louren{\c{c}}o, Afonso and Cano, Alberto and Marreiros, Goreti},
+  journal={arXiv preprint arXiv:2507.20894},
+  year={2025}
 }
