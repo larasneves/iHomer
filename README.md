@@ -52,8 +52,13 @@ If you use this work in your research, please cite:
 
 
 @article{neves2025online,
+
   title={Online hierarchical partitioning of the output space in extreme multi-label data stream},
+  
   author={Neves, Lara and Louren{\c{c}}o, Afonso and Cano, Alberto and Marreiros, Goreti},
+  
   journal={arXiv preprint arXiv:2507.20894},
+  
   year={2025}
+  
 }
